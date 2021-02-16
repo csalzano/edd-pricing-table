@@ -75,6 +75,10 @@
 .plan .infoContainer .features li {
   padding: 0.5em;
 }
+.plan .infoContainer .features li a{
+  text-decoration: underline;
+  color: inherit;
+}
 .plan .infoContainer .selectPlan {
   background: none;
   color: #3EAF7C;
