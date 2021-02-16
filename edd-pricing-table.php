@@ -4,8 +4,8 @@ defined( 'ABSPATH' ) or exit;
 /**
  * Plugin Name: Easy Digital Downloads - Pricing Table
  * Plugin URI: https://entriestogooglesheet.com
- * Description: Provides a shortcode to easily create pricing tables for EDD products
- * Version: 1.0.0
+ * Description: Provides a shortcode [edd_pricing_table] that produces pricing tables for EDD products
+ * Version: 1.0.1
  * Author: Corey Salzano
  * Author URI: https://github.com/csalzano
  * Text Domain: edd-pricing-table
